@@ -14,7 +14,7 @@ This is a simple Java console application that checks whether a given input stri
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Palindrome-App.git
+   git clone https://github.com/arikahnaf/Palindrome-App.git
    cd Palindrome-App
    ```
 
