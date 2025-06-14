@@ -12,14 +12,12 @@ This is a simple Java console application that checks whether a given input stri
 
 ## 🚀 How to Run
 
-### 1. **Clone the repository**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/Palindrome-App.git
-   cd palindrome-app
+   cd Palindrome-App
+   ```
 
 2. **Open the project in any Java IDE**
-	i.e. Eclipse
 
-3. **Run the application**
-	Navigate to the console_app package
-	Run PalindromeApp.java as a Java application
+3. **Navigate to the console_app package and run PalindromeApp.java as a Java application**
